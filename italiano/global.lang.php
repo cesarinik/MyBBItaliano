@@ -308,7 +308,7 @@ $l['postbit_button_purgespammer'] = 'Purge Spammer';
 $l['forumjump'] = 'Forum Jump:';
 $l['forumjump_pms'] = 'Private Messages';
 $l['forumjump_usercp'] = 'User Control Panel';
-$l['forumjump_wol'] = 'Who's Online';
+$l['forumjump_wol'] = 'Chi è online';
 $l['forumjump_search'] = 'Search';
 $l['forumjump_home'] = 'Forum Home';
 
