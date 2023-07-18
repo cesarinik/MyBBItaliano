@@ -108,3 +108,4 @@ $l['error_nosearchterms'] = 'Non hai inserito alcun termine da ricercare. Devi i
 $l['error_searchflooding_1'] = 'Puoi effettuare solamente una ricerca ogni {1} secondi. Devi aspettare ancora 1 secondo prima di poterne effettuare una nuova.';
 $l['error_searchflooding'] = 'Puoi effettuare solamente una ricerca ogni {1} secondi. Devi aspettare ancora {2} secondi prima di poterne effettuare una nuova.';
 $l['error_invalidsearch'] = 'Hai selezionato una ricerca non valida. Torna indietro e riprova.';
+$l['pages'] = 'Pagine:';
