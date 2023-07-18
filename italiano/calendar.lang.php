@@ -11,10 +11,7 @@ $l['nav_dayview']  = "Visualizzazione giorno";
 $l['nav_addevent']  = "Aggiungi evento";
 $l['nav_editevent']  = "Modifica evento";
 $l['nav_move_event']  = "Sposta evento";
-
 $l['calendar_disabled']  = "Non puoi utilizzare le funzionalità del calendario perché sono state disabilitate dall\'amministratore.";
-
-
 $l['alt_month_1']  = "Gennaio";
 $l['alt_month_2']  = "Febbraio";
 $l['alt_month_3']  = "Marzo";
@@ -27,17 +24,12 @@ $l['alt_month_9']  = "Settembre";
 $l['alt_month_10']  = "Ottobre";
 $l['alt_month_11']  = "Novembre";
 $l['alt_month_12']  = "Dicembre";
-
 $l['add_private_event']  = "Aggiungi evento privato";
 $l['add_public_event']  = "Aggiungi evento pubblico";
-
 $l['calendar']  = "Calendario";
-
 $l['jump_month']  = "Vai al mese:";
-
 $l['birthdays_on_day']  = "Compleanni di oggi {1}";
 $l['birthdayhidden']  = "Nascosto";
-
 $l['event']  = "evento";
 $l['events']  = "eventi";
 $l['add_event']  = "Aggiungi evento";
