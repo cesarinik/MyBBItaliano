@@ -28,7 +28,7 @@ $l['success_users_activated'] = 'Gli utenti selezionati sono stati attivati.';
 $l['emailsubject_activateaccount'] = 'Attivazione account per {1}';
 $l['email_adminactivateaccount'] = '{1},
 
-L'amministratore ha attivato il tuo account su {2}.
+L\'amministratore ha attivato il tuo account su {2}.
 
 Per proseguire, To proceed, vai su
 
