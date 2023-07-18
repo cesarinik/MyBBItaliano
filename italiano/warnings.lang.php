@@ -1,22 +1,9 @@
 <?php
 /**
- * MyBB Copyright 2016 MyBB Group, All Rights Reserved
- *
- * Website: http://www.mybb.com
- * License: http://www.mybb.com/about/license
+ * MyBB 1.8 Italiano Language Pack
+ * Copyright 2023 Cesarinik, All Rights Reserved
  *
  */
-
-// --------------------------------------------------------------------------------
-// Pacchetto Lingua MyBB.
-// Questo file è stato generato da MyBB - editor di pacchetti lingua
-// ================================================================================
-// Nome della lingua : Italiano (Italian)
-// Autore del pacchetto lingua : MyBB Italia
-// Sito web traduttori del pacchetto lingua : https://github.com/MyBB-Italia/Traduzione-MyBB-1.8
-// Compatibile con la versione di MyBB : 1821
-// Ultima modifica: Lun, 3 Giugno 2019 da chack1172
-// --------------------------------------------------------------------------------
 
 $l['nav_profile'] = 'Profilo di {1}';
 $l['nav_warning_log'] = 'Log avvertimento';

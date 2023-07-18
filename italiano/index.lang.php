@@ -1,11 +1,10 @@
 <?php
 /**
- * MyBB Copyright 2016 MyBB Group, All Rights Reserved
- *
- * Website: http://www.mybb.com
- * License: http://www.mybb.com/about/license
+ * MyBB 1.8 Italiano Language Pack
+ * Copyright 2023 Cesarinik, All Rights Reserved
  *
  */
+
 $l['boardstats'] = 'Statistiche board';
 $l['new_posts'] = 'Il forum contiene nuovi messaggi';
 $l['no_new_posts'] = 'Il forum non contiene nuovi messaggi';
@@ -36,6 +35,6 @@ $l['online_anon_plural'] = 'sono';
 $l['online_anon_singular'] = 'è';
 $l['online_guest_plural'] = 'ospiti';
 $l['online_guest_singular'] = 'ospite';
-$l['online_note'] = '{1} {2} online negli ultimi {3} minuti ({4} {5}, {6} di questi {7} invisibili, e {8} {9}).';
+$l['online_note'] = '{1} {2} online negli ultimi {3} minuti ({4} {5}, di cui {6} invisibili, e {8} {9}).';
 $l['subforums'] = 'Sottoforum:';
 $l['board_stats_link_separator'] = ' | ';

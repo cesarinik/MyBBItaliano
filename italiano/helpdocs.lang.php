@@ -1,23 +1,9 @@
 <?php
 /**
- * MyBB Copyright 2016 MyBB Group, All Rights Reserved
- *
- * Website: http://www.mybb.com
- * License: http://www.mybb.com/about/license
+ * MyBB 1.8 Italiano Language Pack
+ * Copyright 2023 Cesarinik, All Rights Reserved
  *
  */
-
-// --------------------------------------------------------------------------------
-// Pacchetto Lingua MyBB.
-// Questo file è stato generato da MyBB - editor di pacchetti lingua
-// ================================================================================
-// Nome della lingua : Italiano (Italian)
-// Autore del pacchetto lingua : MyBB Italia
-// Sito web traduttori del pacchetto lingua : https://www.mybb-it.com
-// Compatibile con la versione di MyBB : 1813
-// Modificato l'ultima volta nell'editor da : chack1172
-// Ultima modifica: Mer, 8 Novembre 2017 14:23:56
-// --------------------------------------------------------------------------------
 
 $l['d1_name'] = 'Registrazione utente';
 $l['d1_desc'] = 'Vantaggi e privilegi della registrazione.';

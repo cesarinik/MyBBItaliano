@@ -5,6 +5,7 @@
  *
  */
 
+
 $l['contact'] = 'Contattaci';
 $l['contact_no_message'] = 'Non hai scritto il messaggio da inviare.';
 $l['contact_no_subject'] = 'E\' necessario inserire un oggetto.';

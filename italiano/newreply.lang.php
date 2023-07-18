@@ -1,23 +1,9 @@
 <?php
 /**
- * MyBB Copyright 2016 MyBB Group, All Rights Reserved
- *
- * Website: http://www.mybb.com
- * License: http://www.mybb.com/about/license
+ * MyBB 1.8 Italiano Language Pack
+ * Copyright 2023 Cesarinik, All Rights Reserved
  *
  */
-
-// --------------------------------------------------------------------------------
-// Pacchetto Lingua MyBB.
-// Questo file è stato generato da MyBB - editor di pacchetti lingua
-// ================================================================================
-// Nome della lingua : Italiano (Italian)
-// Autore del pacchetto lingua : MyBB Italia
-// Sito web traduttori del pacchetto lingua : https://www.mybb-it.com
-// Compatibile con la versione di MyBB : 1812
-// Modificato l'ultima volta nell'editor da : chack1172
-// Ultima modifica: Mar, 23 Maggio 2017 17:00:15 +0000
-// --------------------------------------------------------------------------------
 
 $l['nav_newreply'] = 'Invia Risposta';
 $l['post_reply_to'] = 'Invia risposta a {1}';
@@ -39,7 +25,7 @@ $l['thread_review'] = 'Anteprima discussione (Prima i nuovi)';
 $l['thread_review_more'] = 'Questa discussione ha più di {1} risposte. <a href="{2}" target="_blank">Leggi tutta la discussione.</a>';
 $l['posted_by'] = 'inviato da';
 $l['draft_saved'] = 'Il nuovo messaggio è stato salvato con successo come bozza.<br />Verrai ora reindirizzato alla tua lista bozze.';
-$l['error_post_already_submitted'] = 'Hai già  inserito questa risposta in questa discussione. Visita la discussione per vedere la tua risposta.';
+$l['error_post_already_submitted'] = 'Hai già inserito questa risposta in questa discussione. Visita la discussione per vedere la tua risposta.';
 $l['multiquote_external_one'] = 'Hai selezionato un messaggio esterno a questa discussione.';
 $l['multiquote_external'] = 'Hai selezionato {1} messaggi esterni a questa discussione.';
 $l['multiquote_external_one_deselect'] = 'Deseleziona questa risposta';

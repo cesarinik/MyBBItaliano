@@ -1,23 +1,9 @@
 <?php
 /**
- * MyBB Copyright 2016 MyBB Group, All Rights Reserved
- *
- * Website: http://www.mybb.com
- * License: http://www.mybb.com/about/license
+ * MyBB 1.8 Italiano Language Pack
+ * Copyright 2023 Cesarinik, All Rights Reserved
  *
  */
-
-// --------------------------------------------------------------------------------
-// Pacchetto Lingua MyBB.
-// Questo file è stato generato da MyBB - editor di pacchetti lingua
-// ================================================================================
-// Nome della lingua : Italiano (Italian)
-// Autore del pacchetto lingua : MyBB Italia
-// Sito web traduttori del pacchetto lingua : https://www.mybb-it.com
-// Compatibile con la versione di MyBB : 1813
-// Modificato l'ultima volta nell'editor da : chack1172
-// Ultima modifica: Mer, 8 Novembre 2017 14:47:17
-// --------------------------------------------------------------------------------
 
 $l['nav_online'] = 'Chi è online';
 $l['nav_onlinetoday'] = 'Chi è stato online oggi';
@@ -106,7 +92,7 @@ $l['online_anon_plural'] = 'sono';
 $l['online_anon_singular'] = 'è';
 $l['online_guest_plural'] = 'ospiti';
 $l['online_guest_singular'] = 'ospite';
-$l['online_count'] = '{1} {2} attivi negli ultimi {3} minuti ({4} {5}, {6} di cui {7} invisibili, e {8} {9}).';
+$l['online_count'] = '{1} {2} attivi negli ultimi {3} minuti ({4} {5}, di cui {6} invisibili, e {8} {9}).';
 $l['ip'] = 'IP:';
 $l['resolves_to'] = 'Nome host:';
 $l['if_resolvable'] = '(se risolvibile)';
