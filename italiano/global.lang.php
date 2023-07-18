@@ -114,7 +114,7 @@ $l['date'] = 'Data';
 $l['nobody'] = 'Nessuno';
 
 $l['attachments'] = 'Allegati';
-$l['attachments_desc'] = 'Optionally you may attach one or more attachments to this post. Please select the file on the right and click 'Add Attachment' to upload it.';
+$l['attachments_desc'] = 'Puoi allegare uno o più file a questo post. Seleziona un file e aggiungilo per allegarlo';
 $l['remove_attachment'] = 'Rimuovi';
 $l['approve_attachment'] = 'Approva';
 $l['unapprove_attachment'] = 'Elimina';
