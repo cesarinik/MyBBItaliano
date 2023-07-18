@@ -9,8 +9,8 @@
  * Esempio guida personalizzata
  *
  * // Documento della guida {hid}
- * $l['d{hid}_name'] = "Nome documento";
- * $l['d{hid}_desc'] = "Descrizione documento";
- * $l['d{hid}_document'] = "Testo documento";
+ * $l['d{hid}_name'] = 'Nome documento';
+ * $l['d{hid}_desc'] = 'Descrizione documento';
+ * $l['d{hid}_document'] = 'Testo documento';
  */
  
