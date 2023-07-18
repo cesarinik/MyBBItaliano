@@ -1,23 +1,9 @@
 <?php
 /**
- * MyBB Copyright 2016 MyBB Group, All Rights Reserved
- *
- * Website: http://www.mybb.com
- * License: http://www.mybb.com/about/license
+ * MyBB 1.8 Italiano Language Pack
+ * Copyright 2023 Cesarinik, All Rights Reserved
  *
  */
-
-// --------------------------------------------------------------------------------
-// Pacchetto Lingua MyBB.
-// Questo file è stato generato da MyBB - editor di pacchetti lingua
-// ================================================================================
-// Nome della lingua : Italiano (Italian)
-// Autore del pacchetto lingua : MyBB Italia
-// Sito web traduttori del pacchetto lingua : https://www.mybb-it.com
-// Compatibile con la versione di MyBB : 1811
-// Modificato l'ultima volta nell'editor da : chack1172
-// Ultima modifica: Mer, 5 Aprile 2017 15:25:35 +0000
-// --------------------------------------------------------------------------------
 
 $l['custom_mycode'] = 'MyCode personalizzato';
 $l['mycode'] = 'MyCode';
@@ -54,7 +40,7 @@ $l['result_actual_desc'] = 'Nella area sottostante vedrai il risultato HTML.';
 $l['test'] = 'Testa MyCode';
 $l['error_missing_title'] = 'Non hai inserito nessun titolo.';
 $l['error_missing_regex'] = 'Non hai inserito una espressione regolare.';
-$l['error_regex_already_available'] = "Hai inserito un'espressione regolare definità già in un'altro MyCode. Inserisci una espressione regolare diversa per questo MyCode.";
+$l['error_regex_already_available'] = 'Hai inserito un'espressione regolare definità già in un'altro MyCode. Inserisci una espressione regolare diversa per questo MyCode.';
 $l['error_missing_replacement'] = 'Non hai inserito il testo che sostituisce il MyCode.';
 $l['error_invalid_mycode'] = 'Il MyCode specificato non esiste.';
 $l['success_added_mycode'] = 'Il MyCode è stato aggiunto.';

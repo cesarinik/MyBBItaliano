@@ -1,23 +1,9 @@
 <?php
 /**
- * MyBB Copyright 2016 MyBB Group, All Rights Reserved
- *
- * Website: http://www.mybb.com
- * License: http://www.mybb.com/about/license
+ * MyBB 1.8 Italiano Language Pack
+ * Copyright 2023 Cesarinik, All Rights Reserved
  *
  */
-
-// --------------------------------------------------------------------------------
-// Pacchetto Lingua MyBB.
-// Questo file è stato generato da MyBB - editor di pacchetti lingua
-// ================================================================================
-// Nome della lingua : Italiano (Italian)
-// Autore del pacchetto lingua : MyBB Italia
-// Sito web traduttori del pacchetto lingua : https://www.mybb-it.com
-// Compatibile con la versione di MyBB : 1813
-// Modificato l'ultima volta nell'editor da : chack1172
-// Ultima modifica: Mer, 8 Novembre 2017 14:09:12
-// --------------------------------------------------------------------------------
 
 $l['mod_logs'] = 'Registro di Moderazione';
 $l['mod_logs_desc'] = 'Qui puoi vedere, sfoltire, e cercare i registri di moderazione. I registri contengono le azioni che gli utenti svolgono (come cancellare messaggi/discussioni) e tutte le altre azioni dei moderatori.';
@@ -25,7 +11,7 @@ $l['prune_mod_logs'] = 'Sfoltisci registri moderatori';
 $l['prune_mod_logs_desc'] = 'Qui puoi sfoltire i registri dei moderatori che rispondono a criteri scelti.';
 $l['no_modlogs'] = 'Non ci sono voci di registro con i criteri specificati.';
 $l['username'] = 'Nome utente';
-$l['na_deleted'] = "Non trovato - Eliminato";
+$l['na_deleted'] = 'Non trovato - Eliminato';
 $l['date'] = 'Data';
 $l['action'] = 'Azione';
 $l['information'] = 'Informazioni';

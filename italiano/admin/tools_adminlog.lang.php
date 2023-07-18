@@ -1,8 +1,8 @@
 <?php
 /**
- * MyBB Copyright 2014 MyBB Group, All Rights Reserved
- * Website: https://mybb.com
- * License: https://mybb.com/about/license
+ * MyBB 1.8 Italiano Language Pack
+ * Copyright 2023 Cesarinik, All Rights Reserved
+ *
  */
 
 $l['admin_logs'] = 'Registro amministrazione';

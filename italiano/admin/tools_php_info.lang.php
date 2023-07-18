@@ -1,9 +1,7 @@
 <?php
 /**
- * MyBB Copyright 2016 MyBB Group, All Rights Reserved
- *
- * Website: http://www.mybb.com
- * License: http://www.mybb.com/about/license
+ * MyBB 1.8 Italiano Language Pack
+ * Copyright 2023 Cesarinik, All Rights Reserved
  *
  */
 

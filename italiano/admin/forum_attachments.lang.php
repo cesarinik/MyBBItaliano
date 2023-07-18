@@ -1,22 +1,9 @@
 <?php
 /**
- * MyBB Copyright 2016 MyBB Group, All Rights Reserved
- *
- * Website: http://www.mybb.com
- * License: http://www.mybb.com/about/license
+ * MyBB 1.8 Italiano Language Pack
+ * Copyright 2023 Cesarinik, All Rights Reserved
  *
  */
-
-// --------------------------------------------------------------------------------
-// Pacchetto Lingua MyBB.
-// Questo file è stato generato da MyBB - editor di pacchetti lingua
-// ================================================================================
-// Nome della lingua : Italiano (Italian)
-// Autore del pacchetto lingua : MyBB Italia
-// Sito web traduttori del pacchetto lingua : https://www.mybb-it.com
-// Compatibile con la versione di MyBB : 1821
-// Ultima modifica: Lun, 3 Giugno 2019 da chack1172
-// --------------------------------------------------------------------------------
 
 $l['attachments'] = 'Allegati';
 $l['stats'] = 'Statistiche';
@@ -81,10 +68,10 @@ $l['name_contains_desc'] = 'Per ricercare tramite caratteri speciali inserisci *
 $l['type_contains'] = 'Tipo di file contiene';
 $l['forum_is'] = 'Il forum è';
 $l['username_is'] = 'Nome utente è';
-$l['poster_is'] = "Il creatore è";
-$l['poster_is_either'] = "Utente o Visitatore";
-$l['poster_is_user'] = "Soltanto Utenti";
-$l['poster_is_guest'] = "Soltanto Visitatori";
+$l['poster_is'] = 'Il creatore è';
+$l['poster_is_either'] = 'Utente o Visitatore';
+$l['poster_is_user'] = 'Soltanto Utenti';
+$l['poster_is_guest'] = 'Soltanto Visitatori';
 $l['more_than'] = 'Maggiore di';
 $l['greater_than'] = 'Più grande di';
 $l['is_exactly'] = 'E\' esattamente';
